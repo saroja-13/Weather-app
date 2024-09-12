@@ -56,6 +56,11 @@ body{
     font-size:larger;
     display: flex;
     color: white;
+    background-color:rgba(131, 218, 242, 0.5) ;
+    width: 30%;
+    margin-left: 800px;
+    margin-top: -230px;
+    border-radius: 10px;
     
    
 }
